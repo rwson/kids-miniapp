@@ -1,0 +1,18 @@
+{
+	"description": "true",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"nodeModules": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"appid": "wxd5eee06986c917c5",
+	"projectname": "test22",
+	"miniprogramRoot": "dist/",
+	"libVersion": "2.4.0",
+	"condition": {}
+}

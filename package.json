@@ -1,0 +1,26 @@
+{
+  "name": "kids-miniapp",
+  "version": "1.0.0",
+  "description": "kidswant miniapp framework like wepy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index",
+    "start": "rimraf dist && node ./index"
+  },
+  "keywords": [
+    "miniapp",
+    "cli",
+    "framework"
+  ],
+  "author": "rwson",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "css": "^2.2.4",
+    "fs-extra": "^7.0.1",
+    "less": "^3.9.0",
+    "loader-utils": "^1.1.0",
+    "rimraf": "^2.6.2",
+    "signale": "^1.3.0"
+  }
+}
